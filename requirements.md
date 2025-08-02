@@ -2,6 +2,12 @@
 
 > jubilant-octo-dollop
 
+## Risorse
+
+1. [Sito CakePHP](https://book.cakephp.org/5/en/installation.html)
+2. [GitHub Server](https://github.com/Mova801/words_book_server)
+3. [GitHub Web Client](https://github.com/Mova801/words_book_web_client)
+
 ## Requisiti
 
 ### MUST
